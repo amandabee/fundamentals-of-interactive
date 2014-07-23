@@ -2,9 +2,6 @@
 *Pitch Week 4, Due Week 6*
 
 ## Examples of the Form 
-*Need to pull from Newsgames. There are lots.*
-
-# Quizzes
 
 NY Times has a series called "Well Quiz" -- From [The Well Quiz](http://well.blogs.nytimes.com/category/the-well-quiz/), 
 [Can You Read People’s Emotions?](http://well.blogs.nytimes.com/2013/10/03/well-quiz-the-mind-behind-the-eyes/) and [Well Flu](http://well.blogs.nytimes.com/2013/02/13/the-well-flu-quiz/)
@@ -14,6 +11,9 @@ NY Times has a series called "Well Quiz" -- From [The Well Quiz](http://well.blo
 [Presidential Fibs](http://ralphvacca.org/fibber/game/index.html)
 
 From Craft II on [Bloomberg's Legacy](http://bloomberglegacy.nycitynewsservice.com/bloombergs-new-york-city-take-the-quiz/)
+
+### Considerations:
+A newsquiz should move the story along. Don't just ding people for getting the answer wrong, tell them why it is wrong -- give them a little something to go on as they try again (and let them try again). And don't just reward people for getting the answer right -- tell them *why* it is the right answer. We're not here to grade your knowledge of the story, we're trying to make you think this story is interesting. 
 
 
 ## Hands-On
