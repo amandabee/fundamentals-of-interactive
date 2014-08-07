@@ -1,6 +1,13 @@
 # Slideshow
 *Pitch Week 1, Due Week 3*
 
+## Technical Skills
++ Making an HTML Template
++ Basic Bootstrap
++ FTP and File Management
++ 
+
+## Examples of the Form
 + Graphic slide set from Boston Marathon bombing. No captions. [View](http://www.bostonglobe.com/metro/specials/boston-marathon-explosions)
 + [Obesity in China](http://www.nytimes.com/slideshow/2014/07/18/world/asia/20140718_obese_now.html) chosen more or less at random from NY Times. 
 + More complex [timeline based slide show from ABC](http://abcnews.go.com/US/fullpage/boston-marathon-bombing-interactive-timeline-abcnews-189975400)
