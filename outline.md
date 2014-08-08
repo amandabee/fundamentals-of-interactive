@@ -6,7 +6,7 @@
 | Image Map/Annotation | Week 3 |  Week 4 | Wk 8     |
 | Map                  | Week 4 |  Week 5 | Wk 9     |
 | Quiz                 | Week 5 |  Week 6 | Wk 10    |  
-| Chart                | Week 6 |  Week 7 | Wk 10    |
+| Chart                | Week 6 |  Week 7 | Wk 10 (??) |
 
 *Start a class wiki on GitHub with examples of each story form that we'll cover. Invite students to add their own examples and to look ahead and be thinking about what they want to do for stories.* 
 
