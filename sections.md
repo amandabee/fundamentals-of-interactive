@@ -4,17 +4,18 @@ Multimedia-Interactive
 
 ###Monday:
 *Sept 8 - Dec 15*  
+
 9-12:50  Room 436 / Glenn *Data: Amanda*  
-1:30-5:20  Rm 438 / McKenna   
+1:30-5:20  Rm 438 / McKenna *Data: TK*  
 
 ###Thursday:
 9-12:50  Room 438 / Caplan *Data: Amanda*  
-2-5:50   Room 430 / Junnarkar *Data: Sandeep*  
+2-5:50   Room 430 / Junnarkar *Data: TK*  
 5-8:50   Room 432 / TBD *Data: Lam*  
 
 ###Friday 
-9-12:50  Room 434 / Smock  
-12:30-4:20 Rm 430 / TBD  
+9-12:50  Room 434 / Smock *Data: TK*  
+12:30-4:20 Rm 430 / TBD *Data: TK*  
 
 
 
