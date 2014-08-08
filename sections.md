@@ -10,12 +10,12 @@ JOUR 71003 Multimedia-Interactive
 
 9-12:50  Room 438 / Social: Jeremy Caplan | Data: Amanda Hickman  
 2-5:50   Room 430 / Social: Tk |  *Data: TK*  
-5-8:50   Room 432 / TBD *Data: Lam Thuy Vo* 
+5-8:50   Room 432 / Social: Tk | *Data: Lam Thuy Vo* 
 
 ###Friday *Aug 29 - Dec 12*
 
-9-12:50  Room 434 / Smock *Data: TK*  
-12:30-4:20 Rm 430 / TBD *Data: Russell Chun*  
+9-12:50  Room 434 / Social: Adam Glenn *Check* |  *Data: TK*  
+12:30-4:20 Rm 430 / Social: TK | Data: Russell Chun  
 
 
 
