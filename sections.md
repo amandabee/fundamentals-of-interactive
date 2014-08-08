@@ -1,11 +1,10 @@
 
-JOUR 71003
-Multimedia-Interactive
+JOUR 71003 Multimedia-Interactive
 
 ###Monday *Sept 8 - Dec 15*  
 
 9-12:50  Room 436 / Glenn *Data: Amanda*  
--1:30-5:20  Rm 438 / McKenna *Data: TK*-
+~~1:30-5:20  Rm 438 / McKenna *Data: TK*~~
 
 ###Thursday *Aug 28 - Dec 11* 
 
