@@ -16,7 +16,7 @@ Multimedia-Interactive
 ###Friday *Aug 29 - Dec 12*
 
 9-12:50  Room 434 / Smock *Data: TK*  
-12:30-4:20 Rm 430 / TBD *Data: TK*  
+12:30-4:20 Rm 430 / TBD *Data: Russell*  
 
 
 
