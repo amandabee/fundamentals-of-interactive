@@ -1,21 +1,23 @@
 
-JOUR 71003 Multimedia-Interactive
+###JOUR 71003 Multimedia-Interactive
 
-###Monday *Sept 8 - Dec 15*  
+* Monday *Sept 8 - Dec 15*  
+* Thursday *Aug 28 - Dec 11* 
+* Friday *Aug 29 - Dec 12*
 
-9-12:50  Room 436 / Social: Adam Glenn | Data: Amanda Hickman  
-~~1:30-5:20  Rm 438 / McKenna *Data: TK*~~
+[Academic Calendar](http://cuny.edu/academics/calendars.html)
 
-###Thursday *Aug 28 - Dec 11* 
 
-9-12:50  Room 438 / Social: Jeremy Caplan | Data: Amanda Hickman  
-2-5:50   Room 430 / Social: Tk |  *Data: TK*  
-5-8:50   Room 432 / Social: Tk | *Data: Lam Thuy Vo* 
+Day |     | Time    | Room| Social       | Data           
+----|-----|:---------|-----|--------------|-------------
+Mon |(am) | 9-12:50 | 436 | Adam Glenn   | Amanda Hickman  
+Thur|(am) | 9-12:50 | 438 |Jeremy Caplan | Amanda Hickman
+Thur|(aft)| 2-5:50  | 430 | TK           |  TK
+Thur|(eve)| 5-8:50  | 432 | Tk           | Lam Thuy Vo  
+Fri |(am) | 9-12:50 | 434 | Adam Glenn   |  TK
+Fri |(aft)| 12:30-4:20| 430 | Tk           | Russell Chun  
 
-###Friday *Aug 29 - Dec 12*
 
-9-12:50  Room 434 / Social: Adam Glenn *Check* |  *Data: TK*  
-12:30-4:20 Rm 430 / Social: TK | Data: Russell Chun  
 
 
 
