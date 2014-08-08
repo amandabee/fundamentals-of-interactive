@@ -3,13 +3,14 @@ JOUR 71003
 Multimedia-Interactive
 
 ###Monday:
-9-12:50  Room 436 / Glenn
-1:30-5:20  Rm 438 / McKenna
+*Sept 8 - Dec 15*
+9-12:50  Room 436 / Glenn *Data: Amanda*
+1:30-5:20  Rm 438 / McKenna 
 
 ###Thursday:
-9-12:50  Room 438 / Caplan
-2-5:50   Room 430 / Junnarkar
-5-8:50   Room 432 / TBD
+9-12:50  Room 438 / Caplan *Data: Amanda*
+2-5:50   Room 430 / Junnarkar *Data: Sandeep*
+5-8:50   Room 432 / TBD *Data: Lam*
 
 ###Friday 
 9-12:50  Room 434 / Smock
