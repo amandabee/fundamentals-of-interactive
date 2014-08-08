@@ -1,15 +1,15 @@
 #Story Types
 
-## Slideshow
-Pitch Week 2, Due Week 3
-## Image Map/Annotation
-Pitch Week 3, Due Week 4
-## Map
-Pitch Week 4, Due Week 5
-## Quiz
-Pitch Week 5, Due Week 6
-## Chart
-Pitch Week 6, Due Week 7
+
+
+
+| Form                 | Pitch | Due | Revision | 
+|----------------------|-------|-----|----------|
+| Slideshow            | Week 2 |  Week 3 |
+| Image Map/Annotation | Week 3 |  Week 4 |
+| Map                  | Week 4 |  Week 5 | 
+| Quiz                 | Week 5 |  Week 6 |
+| Chart                | Week 6 |  Week 7 |
 
 *Start a class wiki on GitHub with examples of each story form that we'll cover. Invite students to add their own examples and to look ahead and be thinking about what they want to do for stories.* 
 
