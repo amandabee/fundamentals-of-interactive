@@ -1,6 +1,9 @@
 # Slideshow
 *Pitch Week 1, Due Week 3*
 
+## Tool 
++ [Bootstrap Carousel](http://getbootstrap.com/javascript/#carousel)
+
 ## Technical Skills
 + Making an HTML Template
 + Basic Bootstrap
@@ -14,4 +17,4 @@
 + Slightly wonky Detroit Free Press [interactive](http://www.freep.com/interactive/article/20130415/NEWS07/304150201/boston-marathon-bombing-map) on the bombing.
 + Not in a true "slideshow" format, but NPR's [2013 Best Music](http://www.npr.org/blogs/bestmusic2013/2013/12/10/249243871/npr-musics-50-favorite-albums-of-2013) roundup follows the basic format of a good slideshow. 
 + Not a true "slideshow" but a photo driven story that could easily be a slideshow.[Life below the poverty line in Troy, NY] (http://www.slate.com/blogs/behold/2014/07/17/brenda_ann_kenneally_documents_life_below_the_poverty_line_in_troy_york.html)
-+ (http://www.theguardian.com/world/interactive/2013/may/26/firestorm-bushfire-dunalley-holmes-family)
++ <http://www.theguardian.com/world/interactive/2013/may/26/firestorm-bushfire-dunalley-holmes-family>

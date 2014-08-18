@@ -1,6 +1,9 @@
 # Image Map/Annotation
 *Pitch Week 2, Due Week 4*
 
+## Tool
+[Imagemapster](http://www.outsharked.com/imagemapster/)
+
 ### Alternative Tools
 + DocumentCloud
 
@@ -30,3 +33,9 @@
 + A bodega window -- what can that tell you about a neighborhood?
 + The scene of an accident or incident 
 + A building exterior with clues to what lies inside
+
+## Hands on
+I'll migrate this over, but take a look at my Craft2 notes: 
+
++ <https://github.com/amandabee/craft2/tree/master/lessonplans/imagemap>
++ <https://github.com/amandabee/craft2/blob/master/tutorials/imagemapster.md>
