@@ -29,7 +29,7 @@ We're going to cover five forms that we think touch on a range of skills you can
 
 # Additional Course Goals
 
-Students need the skills to put their portfolios together. Can we get Career Svcs or an IT Brownbag for this? 
+Students need the skills to put their portfolios together. Can we get Career Svcs or an IT Brownbag for this? This will be done as a 1-day weekend workshop
 
 # Week by Week
 ## Week 0
