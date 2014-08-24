@@ -5,9 +5,9 @@
 + [Bootstrap Carousel](http://getbootstrap.com/javascript/#carousel)
 
 ## Technical Skills
-+ Making an HTML Template
-+ Basic Bootstrap
-+ FTP and File Management
++ Making an HTML Templated [Rough Lecture Notes](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/html.md) 
++ Basic Bootstrap [Rough Lecture Notes](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/bootstrap.md)
++ FTP and File Management [See HTML rough](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/html.md) 
 + 
 
 ## Examples of the Form
