@@ -13,7 +13,16 @@
 # Story Guidelines
 Your work for this class should be your own original reporting. However, if you've done reporting for another class that you'd like to expand on in an interactive project, we encourage you to return to stories you know well. 
 
-We're going to cover five forms that we think touch on a range of skills you can use throughout your career. If you want to build on these, take newsgames or data visualization or take advantage of coaching to incorporate these into your stories in other classes.
+We're going to cover five forms that we think touch on a range of skills you can use throughout your career. If you want to build on these, take newsgames or data visualization or take advantage of coaching to incorporate these into your stories in other classes. 
+
+## Specific Story Requirements
+
++ Slideshow: your slideshow should include six to ten different images with captions. Each caption should be 20 to 100 words. 
++ Image Map: your image map should include one image or a collage of several images with at least five annotations. Each annotation should be less than 50 words. 
++ Map: your map can be a map of points or shapes, but should include a clear, thoughtful title and a caption that tells us why we're looking at this map. Your caption should be between 50 and 150 words. 
++ Quiz: your quiz should include four to six questions with two or three possible answers. 
++ Chart: ... caption ... REQUIREMENTS TK
+
 
 # Software Requirements
 + Filezilla
@@ -44,7 +53,10 @@ Pre-pitch possible slideshows.
 
 **Hands-on:** make a basic HTML page in bootstrap and upload it to Digital Storage.
 
-**Homework** make a new page. Use 2-3 paragraph tags and an anchored link to tell me what community board you're covering and what kind of stories you want to write this semester. Do you have loose ideas for stories? What are they? 
+**Homework:** 
++ make a new page. Use 2-3 paragraph tags and an anchored link to tell me what community board you're covering and what kind of stories you want to write this semester. Do you have loose ideas for stories? What are they? 
++ Look over the story forms we're going to tackle in this module. Be thinking about your pitches for the rest of the semester.
++ Pitch one slideshow that you can realistically complete for Week 3. Think about photos you're already taking or a project that will allow you 
 
 ## Week 2
 *Due:* Slideshow pitches, URL for HTML excercise.
