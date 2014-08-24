@@ -4,11 +4,21 @@
 ## Tool 
 + [Bootstrap Carousel](http://getbootstrap.com/javascript/#carousel)
 
+## Notes
+We aren't going to learn more HTML than we need to create the slideshows -- we'll be using a lot of tempates this semester so we can focus on storytelling and really finish stories while we get the basics down. Check out the HTML/CSS module if you want to expand your HTML and CSS skills, or consider taking Data Viz next semester, where we'll build on all of these skills. 
+
+Our goal here is to get folks to a place where they can put some photos with captions in a Bootstrap carousel and upload it to Digital Storage, and then focus on writing good captions that tell a story. Less "this picture shows," more 
+
+> The family’s room is the scene of debilitating chaos: stacks of dirty laundry, shoes stuffed under a mattress, bicycles and coats piled high. *From [Dasani's Homeless Life](http://www.nytimes.com/projects/2013/invisible-child/#/?chapt=1)*
+
 ## Technical Skills
 + Making an HTML Templated [Rough Lecture Notes](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/html.md) 
 + Basic Bootstrap [Rough Lecture Notes](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/bootstrap.md)
 + FTP and File Management [See HTML rough](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/html.md) 
 + 
+
+[HTML sssignment notes](https://github.com/amandabee/cunyjdata/blob/master/assignments/Week07_HTML.md)
+
 
 ## Examples of the Form
 + Graphic slide set from Boston Marathon bombing. No captions. [View](http://www.bostonglobe.com/metro/specials/boston-marathon-explosions)
