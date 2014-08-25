@@ -13,6 +13,14 @@ Highcharts and JS Fiddle
 + Migrating from JS Fiddle to HTML (Story 2)
 + Manipulating data in a spreadsheet
 + Cleaning data with open refine (?)
++ 
+
+## Jumping off points 
+
++ <https://github.com/amandabee/cunyjdata/blob/master/assignments/highcharts.md>
++ <https://github.com/amandabee/cunyjdata/blob/master/assignments/highcharts_troubleshooting.md>
++ <https://github.com/amandabee/cunyjdata/tree/master/lecture%20notes/charts>
++ <https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/highcharts_adv.md>
 
 
 ## Examples of the Form 
