@@ -1,9 +1,9 @@
 
 ###JOUR 71003 Multimedia-Interactive
 
-* Monday *Sept 8 - Dec 15*  
-* Thursday *Aug 28 - Dec 11* 
-* Friday *Aug 29 - Dec 12*
+* Monday *Oct 20 - Dec 15*  (needs one makeup)
+* Thursday *Oct 9 - Dec 18* 
+* Friday *Oct 10 - Dec 19*
 
 [Academic Calendar](http://cuny.edu/academics/calendars.html)
 
