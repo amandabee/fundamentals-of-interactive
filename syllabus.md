@@ -5,12 +5,8 @@
 > Room TK
 
 
-Class Website: TK
-Class Notes: <http://etherpad.mozilla.org/cunyjdata>  
-
-Course Reserves: <http://cunygsj.docutek.com/eres/coursepage.aspx?cid=151&page=docs> (Access code dv2014)
-
-[Skip to week-by-week detail](#syllabus)
+Class Website: <http://amandabee.github.io/fundamentals>  
+Class Notes: <http://etherpad.mozilla.org/fundamentals>  
 
 Amanda Hickman 419i  
 amanda.hickman@journalism.cuny.edu  
@@ -19,9 +15,31 @@ Phone: 917/655-2579
 Skype: amandabee  
 Tumblr: <http://jour72312.tumblr.com/>
 
-**Course objectives** 
+**Course objectives**  
+This ten week module will introduce you to a variety of interactive storytelling forms and will combine storytelling skills, especially creating content appropriate to the form, with fundamental technical skills that will serve as the foundation for your interactive work at the CUNY Graduate School of Journalism.
 
-**Course outcomes** 
+**Course outcomes**  
+Students will leave this module with experience:  
+
++ Writing a basic HTML page
++ Using an FTP client to publish content online
++ Incorporating external javascript libraries to create basic interactions
++ Crafting good questions to ensure they get useful technical assistance when they need it
++ Creating basic maps and charts that convey information clearly
+
+Students will also have experience telling meaningful and complete stories in interactive formats where space is at a premium. 
+
+
+#Syllabus in Brief
+
+| Form                 | Pitch   | Due     | Revision | 
+|----------------------|---------|---------|----------|
+| Slideshow            | Week 7  |  Week 8 | Wk 12    |
+| Image Map/Annotation | Week 8  |  Week 9 | Wk 13    |
+| Map                  | Week 9  | Week 10 | Wk 14    |
+| Quiz                 | Week 10 | Week 11 | Wk 15    |  
+| Chart                | Week 11 | Week 12 | *Dec 20* |
+
 
 ## About the Faculty
 
@@ -45,9 +63,7 @@ When in doubt: ask.
 
 ## Deadlines
 
-Deadlines are real: we plan lessons around the assumption that you will have pitches to workshop when pitches are due. If you don't, it disrupts the whole class. So deadlines should not be missed without exceptionally good reason, and I should always be notified in advance. 
-
-The exception: you will be handing in a handful of exercises this semester, follow up work on spreadsheet skills, CartoDB, Open Refine, jQuery and HighCharts -- these are all described as "exercises" in the syllabus. Everyone gets one pass on these deadlines. As long as I have the exercise within a week of the original due date, I won't hold it against you. But you only get to do that once.
+Deadlines are real: we plan lessons around the assumption that you will have pitches to workshop when pitches are due. If you don't, it disrupts the whole class. So deadlines should not be missed without exceptionally good reason, and your instructor should always be notified in advance. 
 
 If you're stumped or stuck or worried that you are falling behind, talk to me. I can help get you caught up and unstuck.
 
@@ -56,18 +72,6 @@ If you're stumped or stuck or worried that you are falling behind, talk to me. I
 Participation and attendance required and are important to your success in the class.
 
 Please be on time for class and back to class from breaks. Repeated tardiness will result in a reduction of grade in participation.
-
-
-#Syllabus in Brief
-
-| Form                 | Pitch  | Due     | Revision | 
-|----------------------|--------|---------|----------|
-| Slideshow            | Week 2 |  Week 3 | Wk 7     |
-| Image Map/Annotation | Week 3 |  Week 4 | Wk 8     |
-| Map                  | Week 4 |  Week 5 | Wk 9     |
-| Quiz                 | Week 5 |  Week 6 | Wk 10    |  
-| Chart                | Week 6 |  Week 7 | Wk 10 (??) |
-
 
 # Story Guidelines
 Your work for this class should be your own original reporting. However, if you've done reporting for another class that you'd like to expand on in an interactive project, we encourage you to return to stories you know well. 
@@ -85,10 +89,6 @@ We're going to cover five forms that we think touch on a range of skills you can
 + JSFiddle
 + GitHub
 
-
-# Additional Course Goals
-
-Students need the skills to put their portfolios together. Can we get Career Svcs or an IT Brownbag for this? 
 
 # Week by Week
 ## Week 0
