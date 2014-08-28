@@ -26,6 +26,7 @@ Students will leave this module with experience:
 + Incorporating external javascript libraries to create basic interactions
 + Crafting good questions to ensure they get useful technical assistance when they need it
 + Creating basic maps and charts that convey information clearly
++ Reporting and producing stories with data and interactivity
 
 Students will also have experience telling meaningful and complete stories in interactive formats where space is at a premium. 
 
