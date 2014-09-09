@@ -41,6 +41,22 @@ Students will also have experience telling meaningful and complete stories in in
 | Quiz                 | Week 10 | Week 11 | Wk 15    |  
 | Chart                | Week 11 | Week 12 | *Dec 20* |
 
+## Story Guidelines
+Your work for this class should be your own original reporting. However, if you've done reporting for another class that you'd like to expand on in an interactive project, we encourage you to return to stories you know well. 
+
+We're going to cover five forms that we think touch on a range of skills you can use throughout your career. If you want to build on these, take newsgames or data visualization or take advantage of coaching to incorporate these into your stories in other classes.
+
+Every story you produce for our class should include clear source information for any data or images that you did not produce yourself. 
+
+### Specific Story Requirements
+
++ **Slideshow**: your slideshow should include six to ten different images with captions. Each caption should be 20 to 100 words. 
++ **Image Map**: your image map should include one image or a collage of several images with at least five annotations. Each annotation should be less than 50 words. 
++ **Map**: your map can be a map of points or shapes, but should include a clear, thoughtful title and a caption that tells us why we're looking at this map. Your caption should be between 50 and 150 words. 
++ **Quiz**: your quiz should include four to six questions with two to four possible answers each. 
++ **Chart**: your chart assignment should use data with news interest and inlude a title and caption that direct readers to a clear takeaway (which is to say, they should know why they are looking at this chart)
+
+Remember: titles and captions are part of your story. Work is not complete without them. 
 
 ## About the Faculty
 
@@ -73,11 +89,6 @@ If you're stumped or stuck or worried that you are falling behind, talk to me. I
 Participation and attendance required and are important to your success in the class.
 
 Please be on time for class and back to class from breaks. Repeated tardiness will result in a reduction of grade in participation.
-
-# Story Guidelines
-Your work for this class should be your own original reporting. However, if you've done reporting for another class that you'd like to expand on in an interactive project, we encourage you to return to stories you know well. 
-
-We're going to cover five forms that we think touch on a range of skills you can use throughout your career. If you want to build on these, take newsgames or data visualization or take advantage of coaching to incorporate these into your stories in other classes.
 
 # Software Requirements
 + Filezilla
