@@ -132,6 +132,8 @@ Story form lecture: chart-based stories
 # To tackle in a future semester
 + Calculators and "where am I in this story"
 
++ (Storymap)[http://storymap.knightlab.com/]
+
 + Panoramas 
 + + [Boston marathon memorial](http://www.bostonglobe.com/metro/2013/05/11/poignant-memorial-that-isn-meant-last-city-whose-memory-strong/cGSaww6hQGyaUyIfhbfM6H/igraphic.html)
 
