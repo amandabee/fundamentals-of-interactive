@@ -6,6 +6,7 @@
 
 ### Alternative Tools
 + DocumentCloud
++ [Thinglink](https://www.thinglink.com/)
 
 ## Technical Skills
 + Making an HTML Template (Story 1)

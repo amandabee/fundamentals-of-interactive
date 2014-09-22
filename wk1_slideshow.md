@@ -12,12 +12,14 @@ Our goal here is to get folks to a place where they can put some photos with cap
 > The family’s room is the scene of debilitating chaos: stacks of dirty laundry, shoes stuffed under a mattress, bicycles and coats piled high. *From [Dasani's Homeless Life](http://www.nytimes.com/projects/2013/invisible-child/#/?chapt=1)*
 
 ## Technical Skills
+
++ Cropping and Resizing in Photoshop
 + Making an HTML Templated [Rough Lecture Notes](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/html.md) 
 + Basic Bootstrap [Rough Lecture Notes](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/bootstrap.md)
 + FTP and File Management [See HTML rough](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/html.md) 
-+ 
 
-[HTML sssignment notes](https://github.com/amandabee/cunyjdata/blob/master/assignments/Week07_HTML.md)
+
+[HTML asssignment notes](https://github.com/amandabee/cunyjdata/blob/master/assignments/Week07_HTML.md)
 
 
 ## Examples of the Form

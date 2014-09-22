@@ -110,7 +110,7 @@ Before class ... please come week 1 with Filezilla, TextWrangler and Mou install
 ## Week 1
 Welcome. 
 
-Story form lecture: Slideshows and what makes them work. 
+**Story form lecture:** Slideshows and what makes them work. 
 Pre-pitch possible slideshows. 
 
 **Hands-on:** make a basic HTML page in bootstrap and upload it to Digital Storage.
