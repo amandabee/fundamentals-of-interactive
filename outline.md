@@ -1,27 +1,15 @@
 #Story Types
 
-| Form                 | Pitch  | Due     | Revision | 
-|----------------------|--------|---------|----------|
-| Slideshow            | Week 2 |  Week 3 | Wk 7     |
-| Image Map/Annotation | Week 3 |  Week 4 | Wk 8     |
-| Map                  | Week 4 |  Week 5 | Wk 9     |
-| Quiz                 | Week 5 |  Week 6 | Wk 10    |  
-| Chart                | Week 6 |  Week 7 | Wk 10 (??) |
+
+| Form                 | Pitch   | Due     | Revision | 
+|----------------------|---------|---------|----------|
+| Slideshow            | Week 7  | Week 8  | Wk 12    |
+| Map                  | Week 8  | Week 9  | Wk 13    |
+| Quiz                 | Week 9  | Week 10 | Wk 14    |
+| Chart                | Week 10 | Week 11 | Wk 15    |  
+
 
 *Start a class wiki on GitHub with examples of each story form that we'll cover. Invite students to add their own examples and to look ahead and be thinking about what they want to do for stories.* 
-
-# Story Guidelines
-Your work for this class should be your own original reporting. However, if you've done reporting for another class that you'd like to expand on in an interactive project, we encourage you to return to stories you know well. 
-
-We're going to cover five forms that we think touch on a range of skills you can use throughout your career. If you want to build on these, take newsgames or data visualization or take advantage of coaching to incorporate these into your stories in other classes. 
-
-## Specific Story Requirements
-
-+ Slideshow: your slideshow should include six to ten different images with captions. Each caption should be 20 to 100 words. 
-+ Image Map: your image map should include one image or a collage of several images with at least five annotations. Each annotation should be less than 50 words. 
-+ Map: your map can be a map of points or shapes, but should include a clear, thoughtful title and a caption that tells us why we're looking at this map. Your caption should be between 50 and 150 words. 
-+ Quiz: your quiz should include four to six questions with two or three possible answers. 
-+ Chart: ... caption ... REQUIREMENTS TK
 
 
 # Software Requirements
@@ -45,7 +33,7 @@ Students need the skills to put their portfolios together. Can we get Career Svc
 
 Before class ... please come week 1 with Filezilla, TextWrangler and Mou installed on your computer. All three are available free of charge. 
 
-## Week 1
+## Week 6
 Welcome. 
 
 Story form lecture: Slideshows and what makes them work. 
@@ -58,7 +46,7 @@ Pre-pitch possible slideshows.
 + Look over the story forms we're going to tackle in this module. Be thinking about your pitches for the rest of the semester.
 + Pitch one slideshow that you can realistically complete for Week 3. Think about photos you're already taking or a project that will allow you 
 
-## Week 2
+## Week 7
 *Due:* Slideshow pitches, URL for HTML excercise.
 
 Story meeting: who has ideas for stories down the line? Are they interesting? What would make them interesting. You should be looking ahead. 
@@ -68,7 +56,7 @@ Story form lecture: Imagemaps, annotations -- adding exploration to an image. Lo
 **Hands on:** Adding jQuery to a Bootstrap Page, putting an image map together in JSFiddle
 
 
-## Week 3
+## Week 8
 *Due:* Draft of slideshow, Annotation pitches
 
 Story meeting: who has ideas for stories down the line? Are they interesting? What would make them interesting. You should be looking ahead. 
@@ -79,22 +67,23 @@ Story form lecture: maps and mapping
 
 **Homework** Pivot 311 calls by community board
 
-## Week 4
+## Week 9
 *Due:* Draft Annotation, map pitches, 311 pivot table
 
 **Hands on:** Making a map in CartoDB (using 311 call data).
 
 Story form lecture: quizzes and telling a story in a quiz.
 
-## Week 5
-
+## Week 10  
 *Due:* Draft map, quiz pitches
 
 **Hands on:** Everyone pick your favorite stat out of [Stats and the City](http://mycrains.crainsnewyork.com/stats-and-the-city/boroughs) and we'll make a quiz about the city using the Mother Jones framework. 
 
 Story form lecture: chart-based stories
 
-## Week 6
+**Homework:** Provide the URL for your spreadsheet and for the digital storage 
+
+## Week 11  
 
 *Due:* Draft quiz (Spreadsheet URL and Digital Storage URL), chart pitches
 
