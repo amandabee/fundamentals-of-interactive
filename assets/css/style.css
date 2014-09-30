@@ -34,7 +34,7 @@ h1, h2, h3 {
 }
 
 
-/* footer */
+/* footer 
 
 footer {
     width: 270px;
@@ -42,7 +42,7 @@ footer {
     position: fixed;
     bottom: 50px;
 }
-
+*/
 /* posts index */
 .post > h3.title {
   position: relative;

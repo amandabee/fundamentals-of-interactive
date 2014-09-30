@@ -47,12 +47,13 @@ theme :
         <div class="row">
         <div class="col-md-4">
           <header>
-          <h1><a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
+          <h1><a href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
           <br />
           <p>{{ site.tagline}}</p>
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
+            {% include assignments %}
           </ul>
           </header>
         </div>
