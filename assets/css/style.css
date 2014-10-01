@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
 /* Custom container */
 
 /* Replaced with normal container and standard footer */
@@ -24,6 +26,13 @@ h1 {
     color: #222;
     margin: 0px 0px 20px;
     font-size: 28px;
+}
+
+h2 {
+  color: #222;
+  font-size: 20px;
+
+
 }
 
 h2, h3, h4, h5, h6 {

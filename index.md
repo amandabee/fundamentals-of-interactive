@@ -1,31 +1,28 @@
 ---
 layout : page
-title : Syllabus
-tagline : Fundamentals of Interactive, Data Module
+title : Fundamentals of Interactive
+tagline : Data Module Fall 2014
 categories : [syllabus]
 
 
 ---
 
-Fall 2014: Aug 28 - Dec 19
 
-> ### Monday Section 
-> 9 AM to 12:50 PM
-> Room 436 (Adam Glenn)
-
-> ### Thursday Section
-> 9 AM to 12:50 PM
-> Room 438 (Jeremy Caplan)
+ | **Monday Section**    |   | **Thursday Section**  
+ |-----------------------|---|---------------------
+ | 9 AM to 12:50 PM      |   | 9 AM to 12:50 PM
+ | Room 436 (Adam Glenn) |   | Room 438 (Jeremy Caplan)
 
 
-Class Website: <http://amandabee.github.io/fundamentals>  
+Class Website: <http://amandabee.github.io/fundamentals-of-interactive>  
 Class Notes: <http://etherpad.mozilla.org/fundamentals>  
 
-Amanda Hickman 419i  
+###Amanda Hickman
 amanda.hickman@journalism.cuny.edu  
+Office: 419i  
 Hours: <http://piratepad.net/amandahickman>  
 Phone: 917/655-2579  
-Skype: amandabee  
+<!-- Skype: amandabee  -->
 Tumblr: <http://jour72312.tumblr.com/>
 
 **Course objectives**  

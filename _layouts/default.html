@@ -52,7 +52,7 @@ theme :
           <p>{{ site.tagline}}</p>
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
+            
             {% include assignments %}
           </ul>
           </header>
@@ -62,7 +62,7 @@ theme :
         </div>
         <div class="col-md-4">
           <footer>
-          <img src="images/">
+          <img src="/assets/images/cuny_square_RGB_orange.jpg" alt="CUNY Graduate School of Journalism" />
           <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</p>
           </footer>
         </div>

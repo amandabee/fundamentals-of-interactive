@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:title.html 
 
 exclude: ["todo.md"]
 highlighter: pygments
@@ -21,8 +21,4 @@ JB :
 
 BASE_PATH : http://amandabee.github.io/fundamentals-of-interactive
 ASSET_PATH : false
-
-archive_path: /archive.html
-categories_path : /categories.html
-tags_path : /tags.html
  
