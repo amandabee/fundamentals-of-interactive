@@ -47,8 +47,8 @@ theme :
         <div class="row">
         <div class="col-md-4">
           <header>
-          <h1><a href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
-          <br />
+          <h1>{{ site.title }}</h1>
+          <a href="{{ HOME_PATH }}">home</a>
           <p>{{ site.tagline}}</p>
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
@@ -62,7 +62,7 @@ theme :
         </div>
         <div class="col-md-4">
           <footer>
-          <img src="/assets/images/cuny_square_RGB_orange.jpg" alt="CUNY Graduate School of Journalism" />
+          <img src="/assets/images/cunyj-logo.png" class="img-responsive" alt="CUNY Graduate School of Journalism" />
           <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</p>
           </footer>
         </div>
