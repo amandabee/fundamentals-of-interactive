@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
   padding:50px;
@@ -253,3 +254,47 @@ footer {
   }
 }
 
+/* Custom Additions */
+ul.posts {
+border: 0; 
+background: #FFF;
+box-shadow: none;
+}
+
+li.posts {
+height: 18px;
+border: 0;
+}
+
+ul.inline {
+display: inline;
+}
+
+
+/* tag_box */
+
+.tag_box {
+list-style:none;
+overflow:hidden;
+margin:0;
+}
+
+
+.tag_box.inline li {
+float:left;
+padding: 3px;
+}
+
+.tag_box a span {
+display: none;
+}
+
+.tag_box a:hover {
+background-color:#e5e5e5;
+}
+
+.tag_box a.active {
+background:#57A957;
+border:1px solid #4c964d;
+color:#FFF;
+}

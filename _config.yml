@@ -10,11 +10,15 @@ highlighter: pygments
 #
 title : Fundamentals of Interactive
 tagline: Data Module Fall 2014
+
 author :
-  name : Amanda Hickman
-  email : amanda.hickman@journalism.cuny.edu
-  github : amandabee
+  name    : Amanda Hickman
+  email   : amanda.hickman@journalism.cuny.edu
+  github  : amandabee
   twitter : amandabee
+course :   
+  semester: Fall 2014
+  title   : Fundamentals of Interactive Data Module
 
 JB :
   version : 0.3.0
