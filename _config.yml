@@ -23,6 +23,6 @@ course :
 JB :
   version : 0.3.0
 
-BASE_PATH : http://amandabee.github.io/fundamentals-of-interactive
-ASSET_PATH : false
+BASE_PATH : /fundamentals-of-interactive
+ASSET_PATH : /fundamentals-of-interactive/assets/
  
