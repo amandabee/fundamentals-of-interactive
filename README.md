@@ -1,6 +1,13 @@
 Fundamentals of Interactive
 ============
 
+## Syllabi
+
+* <http://sisiwei.github.io/cuny-interactive-fall-2014/>
+* <http://amandabee.github.io/fundamentals-of-interactive/>
+
+## Notes
+
 If you're making edits in a local copy of the repository (as opposed to on the site) I highly recommend [Mou](http://mouapp.com/) for editing Markdown.
 
 We have ten weeks and want to cover five basic story forms in those weeks. Right now, we just have a single page devoted to each. As we start to break out lesson plans and hands on activities, I will probably need to reorganize somewhat. But ... for each story form, I've included (or am pulling together now) a few key elements:
