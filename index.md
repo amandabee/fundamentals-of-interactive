@@ -45,12 +45,12 @@ Students will also have experience telling meaningful and complete stories in in
 
 #Syllabus in Brief
 
-| Form                 | Pitch   | Due     | Revision | 
-|----------------------|---------|---------|----------|
-| Slideshow            | Week 7  | Week 8  | Wk 12    |
-| Map                  | Week 8  | Week 9  | Wk 13    |
-| Quiz                 | Week 9  | Week 10 | Wk 14    |
-| Chart                | Week 10 | Week 11 | Wk 15    |  
+| Form                 | Pitch   | Due     | Revision   | 
+|----------------------|---------|---------|------------|
+| Slideshow            | Week 7  | Week 8  | Week 12    |
+| Map                  | Week 8  | Week 9  | Week 13    |
+| Quiz                 | Week 9  | Week 10 | Week 14    |
+| Chart                | Week 10 | Week 11 | Week 15    |  
 
 
 ## Story Guidelines
