@@ -11,7 +11,7 @@ categories : [syllabus]
  |-----------------------|---|---------------------
  | 9 AM to 12:50 PM      |   | 9 AM to 12:50 PM
  | Room 436 (Adam Glenn) |   | Room 438 (Jeremy Caplan)
-
+ |                       |   | [Shared Notes](https://docs.google.com/document/d/1Ogoe9zm2Uhj2Gzx64rnoSXAyNTi1wbviGHDniCR06-A/edit?usp=sharing) 
 
 Class Website: <http://amandabee.github.io/fundamentals-of-interactive>  
 Class Notes: <http://etherpad.mozilla.org/fundamentals>  
