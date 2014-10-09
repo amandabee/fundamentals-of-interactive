@@ -43,3 +43,27 @@ Our goal here is to get folks to a place where they can put some photos with cap
 + Slightly wonky Detroit Free Press [interactive](http://www.freep.com/interactive/article/20130415/NEWS07/304150201/boston-marathon-bombing-map) on the bombing.
 
 + A [Firestorm in Tasmania](http://www.theguardian.com/world/interactive/2013/may/26/firestorm-bushfire-dunalley-holmes-family)
+
+
+### More Forms
+
+the old-fashioned way (separate HTML page per image)
+http://www.washingtonpost.com/wp-srv/national/longterm/tmi/gallery/photo1.htm
+
+Audio slideshow (old=soundslides, but still being used; see Guardian)
+http://www.nytimes.com/interactive/2007/11/21/nyregion/20071126_MANHOLE_FEATURE.html
+http://www.theguardian.com/uk-news/audioslideshow/2014/aug/27/scotland-stories
+
+Linear (scroll through all)
+http://www.washingtonpost.com/news/in-sight/wp/2014/10/03/2170/?hpid=z9
+
+http://www.nytimes.com/interactive/2014/09/04/magazine/women-of-west-point.html?ref=multimedia
+
+Slideshow with linear navigation (previous and next)
+http://www.nytimes.com/2014/10/03/nyregion/thousands-of-charter-school-students-and-parents-rally-in-lower-manhattan.html?ref=multimedia
+
+Slideshow with non-linear navigation
+http://projects.aljazeera.com/2014/hunting/
+
+Slideshow with non-linear navigation + thumbnails
+http://america.aljazeera.com/multimedia/photo-gallery/2014/7/photos-ebola-spreadsinwestafrica.html
