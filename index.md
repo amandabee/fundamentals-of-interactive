@@ -1,12 +1,11 @@
 ---
 layout : page
-title : Syllabus: Fundamentals of Interactive 
+title : Syllabus--Fundamentals of Interactive 
 tagline : Data Module Fall 2014
 categories : [syllabus]
 
-
 ---
-
+{% include JB/setup %}
 
  | **Monday Section**    |   | **Thursday Section**  
  |-----------------------|---|---------------------

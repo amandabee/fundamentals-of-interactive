@@ -1,10 +1,13 @@
 ---
-title: Bootstrap Basics
-layout : post
-category : hands-on
-tagline : Using the Twitter Bootstrap to get classier HTML templates.
-tags : [week06, review, html, bootstrap]
+title     : Bootstrap Basics
+layout    : post
+category  : hands-on
+tagline   : Using the Twitter Bootstrap to get classier HTML templates.
+tags      : [week06, review, html, bootstrap]
+
 ---
+
+{% include JB/setup %}
 
 A complete HTML page has a few basic components -- it has a `head` and a `body` nested inside of `<html>` tags. The very most basic template looks something like this:
 
