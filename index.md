@@ -1,6 +1,6 @@
 ---
 layout : page
-title : Fundamentals of Interactive
+title : Syllabus: Fundamentals of Interactive 
 tagline : Data Module Fall 2014
 categories : [syllabus]
 
@@ -115,7 +115,7 @@ Please be on time for class and back to class from breaks. Repeated tardiness wi
 
 We will begin meeting on Week 6 of the semester. Please come to class Week 6 with [Filezilla](https://filezilla-project.org/), [TextWrangler](http://www.barebones.com/products/textwrangler/) and [Mou](http://25.io/mou/) installed on your computer. All three are available free of charge. 
 
-## Week 6 | Thu Oct 9 / Mon TBD
+## Week 6 | Thu Oct 9 / Mon Oct 20
 **Discussion:** Welcome. Slideshows and what makes them work. Pre-pitch possible slideshows. 
 
 **Hands-on:** make a basic HTML page in bootstrap and upload it to Digital Storage.
@@ -124,7 +124,7 @@ We will begin meeting on Week 6 of the semester. Please come to class Week 6 wit
 
 Bring in one pitch for a slideshow. Your first draft will be due Week 8!
 
-## Week 7 | Thu Oct 16 / Mon Oct 20  
+## Week 7 | Thu Oct 16 / Mon Oct 27  
 *Due:* Slideshow pitches, URL for HTML excercise.
 
 **Discussion:** Who has ideas for stories down the line? Are they interesting? What would make them interesting. You should be looking ahead!  
@@ -135,7 +135,7 @@ Maps and mapping -- how to make a map that tells a story.
 
 **Homework:** Post the first draft of your slidshow on Digital Storage (name it "slideshow_draft.html"); Post a map pitch on Digital Storage (name it "map_pitch.html"); Use pivot tables to summarize 311 call data. 
 
-## Week 8 | Thu Oct 23 / Mon Oct 27  
+## Week 8 | Thu Oct 23 / Mon Nov 3  
 *Due:* Draft of slideshow, Map pitches, 311 pivot table
 
 **Discussion:** Ideas for stories down the line? Keep looking ahead! What makes a quiz work as a story? Making games fun. 
@@ -144,7 +144,7 @@ Maps and mapping -- how to make a map that tells a story.
 
 **Homework:** Post the first draft of your map (map_draft.html) and a pitch for a quiz based story (quiz_pitch.html) on digital storage. 
 
-## Week 9 | Thu Oct 30 / Mon Nov 3
+## Week 9 | Thu Oct 30 / Mon Nov 10
 *Due:* Map draft, Quiz pitches
 
 **Discussion:**  Storytelling through charts; what makes a chart-based story complete? 
@@ -154,7 +154,7 @@ Maps and mapping -- how to make a map that tells a story.
 
 **Homework:** Post the first draft of your quiz (quiz_draft.html) and a pitch for a chart based story (chart_pitch.html)
 
-## Week 10 | Thu Nov 6 / Mon Nov 10  
+## Week 10 | Thu Nov 6 / Mon Nov 17  
 *Due:* Draft quiz, chart pitches
 
 **Discussion:** Reviewing chart based stories.  
@@ -163,21 +163,21 @@ Maps and mapping -- how to make a map that tells a story.
 
 **Homework:** Post the first draft of your chart (chart_draft.html)
 
-## Week 11 | Thu Nov 13 / Mon Nov 17
+## Week 11 | Thu Nov 13 / Mon Nov 24
 *Due:* Draft chart
 
 **Discussion:** Back to the beginning -- what stands out in the slideshows we filed Week 8?
 
 **Hands on:** Troubleshooting slideshows; using Excel formulas
 
-## Week 12 | Thu Nov 20 / Mon Nov 24
+## Week 12 | Thu Nov 20 / Mon Dec 1
 
 *Due:* Slideshow revision
 
 **Discussion:** What stands out in the maps we filed week 9? 
 
 
-## Week 13 | Thu Dec 4 / Mon Dec 1
+## Week 13 | Thu Dec 4 / Mon Dec 8
 
 *Due:* Map revision
 
@@ -186,11 +186,11 @@ Maps and mapping -- how to make a map that tells a story.
 **Hands on:** Troubleshooting map problems.
 
 
-## Week 14 | Thu Dec 11 / Mon Dec 8
+## Week 14 | Thu Dec 11 / Mon Dec 15
 *Due:* Quiz Revision
 
 **Hands on:** Troubleshooting chart problems; getting more out of excel
 
-## Week 15 | Thu Dec 18 / Mon Dec 15
+## Week 15 | Thu Dec 18 / Mon Dec 22
 
 *Due:* Chart revision
