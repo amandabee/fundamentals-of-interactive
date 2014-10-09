@@ -29,89 +29,92 @@
 Students need the skills to put their portfolios together. Can we get Career Svcs or an IT Brownbag for this? This will be done as a 1-day weekend workshop
 
 # Week by Week
-## Week 0
 
-Before class ... please come week 1 with Filezilla, TextWrangler and Mou installed on your computer. All three are available free of charge. 
+## Week 5
+
+Before class ... please come next with Filezilla, TextWrangler and Mou installed on your computer. All three are available free of charge. 
 
 ## Week 6
 Welcome. 
 
-Story form lecture: Slideshows and what makes them work. 
+**Story form lecture:** Slideshows and what makes them work. 
+
 Pre-pitch possible slideshows. 
 
 **Hands-on:** make a basic HTML page in bootstrap and upload it to Digital Storage.
 
-**Homework:** 
+**Homework:**   
 + make a new page. Use 2-3 paragraph tags and an anchored link to tell me what community board you're covering and what kind of stories you want to write this semester. Do you have loose ideas for stories? What are they? 
 + Look over the story forms we're going to tackle in this module. Be thinking about your pitches for the rest of the semester.
 + Pitch one slideshow that you can realistically complete for Week 3. Think about photos you're already taking or a project that will allow you 
 
-## Week 7
+## Week 7 
 *Due:* Slideshow pitches, URL for HTML excercise.
 
 Story meeting: who has ideas for stories down the line? Are they interesting? What would make them interesting. You should be looking ahead. 
 
 Story form lecture: Imagemaps, annotations -- adding exploration to an image. Look at 
 
-**Hands on:** Adding jQuery to a Bootstrap Page, putting an image map together in JSFiddle
+**Hands on:** Adding jQuery to a Bootstrap Page, putting a carousel together. 
 
 
 ## Week 8
-*Due:* Draft of slideshow, Annotation pitches
+*Due:* Draft of slideshow, Map pitches
 
-Story meeting: who has ideas for stories down the line? Are they interesting? What would make them interesting. You should be looking ahead. 
+**Story meeting:** who has ideas for stories down the line? Are they interesting? What would make them interesting. You should be looking ahead. 
 
-Story form lecture: maps and mapping
+**Lecture:** maps and mapping
 
-**Hands on:** Moving your image map from JSFiddle to an HTML page; pivot tables to summarize data (use 311 call data)
+**Hands on:** pivot tables to summarize data (use 311 call data); Starting a chart in JS Fiddle; Mr Data Converter
 
 **Homework** Pivot 311 calls by community board
 
 ## Week 9
-*Due:* Draft Annotation, map pitches, 311 pivot table
+*Due:* Draft Map, Quiz pitches, 311 pivot table
 
 **Hands on:** Making a map in CartoDB (using 311 call data).
 
-Story form lecture: quizzes and telling a story in a quiz.
+**Lecture:** quizzes and telling a story in a quiz.
 
 ## Week 10  
-*Due:* Draft map, quiz pitches
+*Due:* Draft quiz, chart pitches
 
 **Hands on:** Everyone pick your favorite stat out of [Stats and the City](http://mycrains.crainsnewyork.com/stats-and-the-city/boroughs) and we'll make a quiz about the city using the Mother Jones framework. 
 
-Story form lecture: chart-based stories
+**Lecture:** chart-based stories
 
 **Homework:** Provide the URL for your spreadsheet and for the digital storage 
 
 ## Week 11  
 
-*Due:* Draft quiz (Spreadsheet URL and Digital Storage URL), chart pitches
+*Due:* Draft chart (Spreadsheet URL and Digital Storage URL)
 
-**Discussion:** what stands out in the slideshows from week 3?
+**Discussion:** what stands out in the slideshows from week 8?
 
-**Hands on:** Starting a chart in JS Fiddle; Mr Data Converter
+**Hands on:** 
 
-## Week 7
+## Week 12
 
-*Due:* Draft chart, Slideshow revision
+*Due:* Slideshow revision
 
-**Discussion:** what stands out in the annotations from week 4?
+**Discussion:** what stands out in the maps from week 9?
 
 **Hands on:** Troubleshooting chart problems, customizing charts -- look at how NYT really cuts down the cruft but still tells you what the charts mean. How can we incorporate that?
 
-## Week 8
+## Week 13
 
-*Due:* Annotation revision
+*Due:* Map revision
 
-**Discussion:** Maps from week 5, what would make those stronger? 
+**Discussion:** Quizzes from week 10, what would make those stronger? 
 
 **Hands on:** Troubleshooting map problems?
 
 
-## Week 9
-*Due:* Map Revision
+## Week 14
+*Due:* Quiz Revision
 
-**Hands on:** 
+**Hands on:**
+
 ## Week 10
 
 *Due:* Chart revision
