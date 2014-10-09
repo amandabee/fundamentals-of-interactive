@@ -17,7 +17,7 @@ Our goal here is to get folks to a place where they can put some photos with cap
 + Making an HTML Templated [Rough Lecture Notes](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/html.md) 
 + Basic Bootstrap [Rough Lecture Notes](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/bootstrap.md)
 + FTP and File Management [See HTML rough](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/html.md) 
-
++ Adding a Carousel to Bootstrap [Tutorial](http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-carousel.php)
 
 [HTML asssignment notes](https://github.com/amandabee/cunyjdata/blob/master/assignments/Week07_HTML.md)
 
