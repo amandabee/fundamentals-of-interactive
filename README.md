@@ -5,6 +5,7 @@ Fundamentals of Interactive
 
 * <http://sisiwei.github.io/cuny-interactive-fall-2014/>
 * <http://amandabee.github.io/fundamentals-of-interactive/>
+* <http://lamthuyvo.github.io/cuny2014/>
 
 ## Notes
 
