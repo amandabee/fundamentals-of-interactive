@@ -44,18 +44,20 @@ Pre-pitch possible slideshows.
 **Hands-on:** make a basic HTML page in bootstrap and upload it to Digital Storage.
 
 **Homework:**   
-+ make a new page. Use 2-3 paragraph tags and an anchored link to tell me what community board you're covering and what kind of stories you want to write this semester. Do you have loose ideas for stories? What are they? 
++ make a new page. Include your pitch on that page. 
 + Look over the story forms we're going to tackle in this module. Be thinking about your pitches for the rest of the semester.
 + Pitch one slideshow that you can realistically complete for Week 3. Think about photos you're already taking or a project that will allow you 
 
 ## Week 7 
-*Due:* Slideshow pitches, URL for HTML excercise.
+*Due:* Slideshow pitch URL
 
-Story meeting: who has ideas for stories down the line? Are they interesting? What would make them interesting. You should be looking ahead. 
+**Discussion:** Who has ideas for stories down the line? Are they interesting? What would make them interesting. You should be looking ahead!  
 
-Story form lecture: Imagemaps, annotations -- adding exploration to an image. Look at 
+Maps and mapping -- how to make a map that tells a story. 
 
-**Hands on:** Adding jQuery to a Bootstrap Page, putting a carousel together. 
+**Hands on:** Pivot tables to summarize data, HTML and FTP Review
+
+**Homework:** Post the first draft of your slidshow on Digital Storage (name it "slideshow_draft.html"); Post a map pitch on Digital Storage (name it "map_pitch.html"); Use pivot tables to summarize 311 call data. 
 
 
 ## Week 8
