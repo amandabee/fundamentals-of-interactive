@@ -11,7 +11,7 @@ categories : [syllabus]
  |-----------------------|---|---------------------
  | 9 AM to 12:50 PM      |   | 9 AM to 12:50 PM
  | Room 436 (Adam Glenn) |   | Room 438 (Jeremy Caplan)
-
+ |                       |   | [Shared Notes](https://docs.google.com/document/d/1Ogoe9zm2Uhj2Gzx64rnoSXAyNTi1wbviGHDniCR06-A/edit?usp=sharing) 
 
 Class Website: <http://amandabee.github.io/fundamentals-of-interactive>  
 Class Notes: <http://etherpad.mozilla.org/fundamentals>  
@@ -119,9 +119,7 @@ We will begin meeting on Week 6 of the semester. Please come to class Week 6 wit
 
 **Hands-on:** make a basic HTML page in bootstrap and upload it to Digital Storage.
 
-**Homework:** make a new page called "week6.html". On that page, use 2-3 paragraph tags and an anchored link to tell me what community board you're covering and what kind of stories you want to write this semester. Do you have loose ideas for stories? What are they? 
-
-Bring in one pitch for a slideshow. Your first draft will be due Week 8!
+**Homework:** make a new page called "week6.html". On that page, describe your slideshow pitch. Use 2-3 paragraphs and at least one anchor tag. Your first draft will be due Week 8!
 
 ## Week 7 | Thu Oct 16 / Mon Oct 27  
 *Due:* Slideshow pitches, URL for HTML excercise.
