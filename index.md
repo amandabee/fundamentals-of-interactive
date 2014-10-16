@@ -132,10 +132,10 @@ Maps and mapping -- how to make a map that tells a story.
 
 **Hands on:** Pivot tables to summarize data, HTML and FTP Review
 
-**Homework:** Post the first draft of your slidshow on Digital Storage (name it "slideshow_draft.html"); Post a map pitch on Digital Storage (name it "map_pitch.html"); Use pivot tables to summarize 311 call data. 
+**Homework:** Post the first draft of your slidshow on Digital Storage (name it "slideshow_draft.html"); Post a map pitch on Digital Storage (name it "map_pitch.html"); Use pivot tables to summarize data. 
 
 ## Week 8 | Thu Oct 23 / Mon Nov 3  
-*Due:* Draft of slideshow, Map pitches, 311 pivot table
+*Due:* Draft of slideshow, Map pitches, 311 pivot table exercise
 
 **Discussion:** Ideas for stories down the line? Keep looking ahead! What makes a quiz work as a story? Making games fun. 
 
