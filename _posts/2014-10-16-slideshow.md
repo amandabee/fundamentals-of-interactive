@@ -13,7 +13,7 @@ tags      : [week07, review, html, bootstrap, slideshow]
 
 I have put together a super basic jQuery slideshow using the Twitter Bootstrap:
 
-+ [Slideshow Template](https://github.com/amandabee/cunyjdata/blob/master/lecture%20notes/bootstrap/basic_bootstrap_with_slides.html)
++ [Slideshow Template](https://raw.githubusercontent.com/amandabee/cunyjdata/master/lecture%20notes/bootstrap/basic_bootstrap_with_slides.html)
 
 There are a lot of moving pieces here and they provide a lovely opportunity to introduce the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model). The easiest way to think about this concept is that your HTML page is a collection of "objects" (which in a way it is) like boxes and paragraphs. And if you want scripts to act on just one "object" you need to identify it. There are many women in this room, but I'm the only "Amanda Hickman". There are many `<div>`s on this page but when I say this one is to be a slider, well ...
 
