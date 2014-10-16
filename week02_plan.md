@@ -9,7 +9,9 @@ What was hard in putting the pitches together?
 + [Danni Santana, First Reformed Church of Astoria](http://digitalstorage.journalism.cuny.edu/dannisantana/coding/weeksix.html)
 + [Rania Berrada, Mott Haven at the Peoples Climate March](digitalstorage.journalism.cuny.edu/raniaberrada/Fundamentals/week6.html)
 + [Maura Ewing, Prison Bus](http://digitalstorage.journalism.cuny.edu/maura.ewing/public_html/fundamentals/week6.html)
-
++ [Annamarya Scaccia](http://digitalstorage.journalism.cuny.edu/annamarya.scaccia/week6.html)
++ [Luke Tress](http://digitalstorage.journalism.cuny.edu/luketress/week6.html)
++ [Brooke Williams](http://digitalstorage.journalism.cuny.edu/brooke.williams/fundamentals/week6.html)
 
 Notes: your first draft is due next week. 
 
