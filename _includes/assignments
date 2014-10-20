@@ -7,9 +7,13 @@
   {% endfor %}
 </ul>
 
+<br />
+
 <ul class="posts">
   <li><b>Hands On Exercises</b></li>
   {% for post in site.categories.hands-on %}
     <li><a href="/fundamentals-of-interactive{{ post.url }}">&raquo; {{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+<br />
