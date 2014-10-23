@@ -46,4 +46,16 @@ The second and third digits are the CD. So 314 is Brooklyn CD 14. In your spread
 
 6. Add another empty column, title it "boro code" and fill it in with numbers. You already know how to pull down a single value -- alphabetically, Brooklyn is first, so type a 3 at the top of the column and then pull it down until you hit the Bronx. Bronx is 2. Repeat. When you're done you should have a column of boro codes. 
 
-7. Your "CD" column probably contains some two digit numbers and some one digit numbers. You're going to use the [=TEXT()](https://help.libreoffice.org/Calc/Text_Functions#TEXT) function to ensure that it is all one digit. You could also use number formats. Create yet another blank column, call it "borocd" and find a row where the CD needs some left hand padding. In the adjacent blank cell, type `=` and then tap the cell that contains your CD. It should populate the blank cell with a cell reference. `=M13` or something. Column M, Row 13. Hit return and you'll see that when you aren't editing the cell it just displays the value. Now you need to enter a real formula. If `M13` is the cell that contains the CD number, your formula is going to be this: `=TEXT(M13, "00")` -- hit return and see what happens. 
+
+7. Your "CD" column probably contains some two digit numbers and some one digit numbers. You're going to use the [=TEXT()](https://help.libreoffice.org/Calc/Text_Functions#TEXT) function to ensure that it is all one digit. You could also use number formats. Create yet another blank column, call it "borocd" and find a row where the CD needs some left hand padding. In the adjacent blank cell, type `=` and then tap the cell that contains your CD. It should populate the blank cell with a cell reference. `=M13` or something. Column M, Row 13. Hit return and you'll see that when you aren't editing the cell it just displays the value. Now you need to enter a real formula. If `M13` is the cell that contains the CD number, your formula is going to be this: `=TEXT(M13, "00")` -- hit return and see what happens. You should see that the function has added zero padding to the left of any one digit number. This function, with `"00"` as the second argument, forces all your numbers to two digits by padding them with left-hand zeros as needed. If you're kind of thrilled by this, try seeing what `"0000"` does. 
+
+8. Now we're going to nest functions. We need to string together two things: the boro code and the two digit CD code. If your boro codes are in column N and your CD codes are in column M, your function is going to look about like this, at least on row 2: `=CONCATENATE(N2,TEXT(M2,"00"))` 
+
+That should leave you with a column full of three digit borocd codes that match exactly what you've got in your shapefile. So once you've uploaded your data to CartoDB you can merge it with your Borough shapefile with a query something like this:
+
+	UPDATE mydata
+	SET the_geom = nycd.the_geom
+	FROM nycd
+	WHERE nycd.borocd = mydata.borocd
+	
+	
