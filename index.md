@@ -44,12 +44,12 @@ Students will also have experience telling meaningful and complete stories in in
 
 #Syllabus in Brief
 
-| Form                 | Pitch   | Due     | Revision   | 
-|----------------------|---------|---------|------------|
-| Slideshow            | Week 7  | Week 8  | Week 12    |
-| Map                  | Week 8  | Week 9  | Week 13    |
-| Quiz                 | Week 9  | Week 10 | Week 14    |
-| Chart                | Week 10 | Week 11 | Week 15    |  
+| Form                 | Pitch   | Due        | Revision   | 
+|----------------------|---------|------------|------------|
+| Slideshow            | Week 7  | Week 8     | Week 12    |
+| Map                  | Week 8  | Week 9,10  | Week 13    |
+| Quiz                 | Week 9  | Week 11    | Week 14    |
+| Chart                | Week 10 | Week 12    | Week 15    |  
 
 
 ## Story Guidelines
@@ -142,7 +142,7 @@ Maps and mapping -- how to make a map that tells a story.
 **Homework:** Post the first draft of your map (map_draft.html) and a pitch for a quiz based story (quiz_pitch.html) on digital storage. 
 
 ## Week 9 | Thu Oct 30 / Mon Nov 10
-*Due:* Map draft, Quiz pitches
+*Due:* Map draft on CartoDB, Quiz pitches
 
 **Discussion:**  Storytelling through charts; what makes a chart-based story complete? 
 
@@ -152,7 +152,7 @@ Maps and mapping -- how to make a map that tells a story.
 **Homework:** Post the first draft of your quiz (quiz_draft.html) and a pitch for a chart based story (chart_pitch.html)
 
 ## Week 10 | Thu Nov 6 / Mon Nov 17  
-*Due:* Draft quiz, chart pitches
+*Due:* Draft map, chart pitches
 
 **Discussion:** Reviewing chart based stories.  
 
@@ -161,7 +161,7 @@ Maps and mapping -- how to make a map that tells a story.
 **Homework:** Post the first draft of your chart (chart_draft.html)
 
 ## Week 11 | Thu Nov 13 / Mon Nov 24
-*Due:* Draft chart
+*Due:* Draft Quiz
 
 **Discussion:** Back to the beginning -- what stands out in the slideshows we filed Week 8?
 
@@ -169,7 +169,7 @@ Maps and mapping -- how to make a map that tells a story.
 
 ## Week 12 | Thu Nov 20 / Mon Dec 1
 
-*Due:* Slideshow revision
+*Due:* Draft Chart, Slideshow revision
 
 **Discussion:** What stands out in the maps we filed week 9? 
 
