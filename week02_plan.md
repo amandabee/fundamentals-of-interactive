@@ -3,7 +3,7 @@
 ## Welcome, HTML troubleshooting
 What was hard in putting the pitches together? 
 
-###Pitches
+###Thursday Pitches
 + [Lisa Brown, Cranberry Bog](http://digitalstorage.journalism.cuny.edu/lisa.brown/fundamental/week6.html)
 + [Ryan Wallerson, World Series](http://digitalstorage.journalism.cuny.edu/ryanwallerson/fundamentals/weeksix.html)
 + [Danni Santana, First Reformed Church of Astoria](http://digitalstorage.journalism.cuny.edu/dannisantana/coding/weeksix.html)
@@ -12,6 +12,9 @@ What was hard in putting the pitches together?
 + [Annamarya Scaccia](http://digitalstorage.journalism.cuny.edu/annamarya.scaccia/week6.html)
 + [Luke Tress](http://digitalstorage.journalism.cuny.edu/luketress/week6.html)
 + [Brooke Williams](http://digitalstorage.journalism.cuny.edu/brooke.williams/fundamentals/week6.html)
+
+### Monday Pitches
++ 
 
 Notes: your first draft is due next week. 
 
