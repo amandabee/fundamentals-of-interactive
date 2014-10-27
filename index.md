@@ -14,7 +14,7 @@ categories : [syllabus]
  |                       |   | [Shared Notes](https://docs.google.com/document/d/1Ogoe9zm2Uhj2Gzx64rnoSXAyNTi1wbviGHDniCR06-A/edit?usp=sharing) 
 
 Class Website: <http://amandabee.github.io/fundamentals-of-interactive>  
-Class Notes: <http://etherpad.mozilla.org/fundamentals>  
+Class Mopad: <http://etherpad.mozilla.org/fundamentals>  
 
 ###Amanda Hickman
 amanda.hickman@journalism.cuny.edu  
