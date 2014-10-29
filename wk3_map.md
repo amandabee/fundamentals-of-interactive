@@ -28,6 +28,7 @@ We're making fairly basic maps. The data visualization class will give you an op
 + <http://www.wnyc.org/story/304422-new-york-remade-city-more-desirable-ever-also-too-expensive-many/>
 
 + [map as navigation](http://www.telegraph.co.uk/news/worldnews/asia/japan/9134487/Graphic-Aftermath-of-Japan-earthquake-and-tsunami-and-Fukushima.html)
++ <http://www.nytimes.com/2014/06/03/business/Medicare-Hospital-Billing-Data-Is-Released.html?_r=0> 
 
 ## Hands On
 
