@@ -152,16 +152,16 @@ Maps and mapping -- how to make a map that tells a story.
 **Homework:** Post the first draft of your quiz (quiz_draft.html) and a pitch for a chart based story (chart_pitch.html)
 
 ## Week 10 | Thu Nov 6 / Mon Nov 17  
-*Due:* Draft map, chart pitches
+*Due:* Draft map, Revised quiz pitch, rough chart pitches
 
 **Discussion:** Reviewing chart based stories.  
 
 **Hands on:** Digging into highcharts: Starting a chart in JS Fiddle; Using Mr Data Converter
 
-**Homework:** Post the first draft of your chart (chart_draft.html)
+**Homework:** Post the first draft of your chart (`chart_draft.html`) and your quiz pitch (`quiz_pitch.html`). Come in with a well thought out idea for a chart-based story. 
 
 ## Week 11 | Thu Nov 13 / Mon Nov 24
-*Due:* Draft Quiz
+*Due:* Draft Quiz, Revised chart pitch
 
 **Discussion:** Back to the beginning -- what stands out in the slideshows we filed Week 8?
 
