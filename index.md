@@ -144,28 +144,30 @@ Maps and mapping -- how to make a map that tells a story.
 ## Week 9 | Thu Oct 30 / Mon Nov 10
 *Due:* Map draft on CartoDB, Quiz pitches
 
-**Discussion:**  Storytelling through charts; what makes a chart-based story complete? 
-
-**Hands on:** Making our first quiz using the Mother Jones framework.
-
 
 **Homework:** Post the first draft of your quiz (quiz_draft.html) and a pitch for a chart based story (chart_pitch.html)
 
 ## Week 10 | Thu Nov 6 / Mon Nov 17  
 *Due:* Draft map, Revised quiz pitch, rough chart pitches
 
+**Hands on:** Making our first quiz using the Mother Jones framework.
+
+**Discussion:**  Storytelling through charts; what makes a chart-based story complete? 
+
+**Homework:** Post the first draft of your quiz (`quiz_draft.html`) and a pitch for your chart (`chart_pitch.html`)
+
+## Week 11 | Thu Nov 13 / Mon Nov 24
+*Due:* Draft Quiz, Chart pitch
+
 **Discussion:** Reviewing chart based stories.  
 
 **Hands on:** Digging into highcharts: Starting a chart in JS Fiddle; Using Mr Data Converter
 
-**Homework:** Post the first draft of your chart (`chart_draft.html`) and your quiz pitch (`quiz_pitch.html`). Come in with a well thought out idea for a chart-based story. 
-
-## Week 11 | Thu Nov 13 / Mon Nov 24
-*Due:* Draft Quiz, Revised chart pitch
-
 **Discussion:** Back to the beginning -- what stands out in the slideshows we filed Week 8?
 
 **Hands on:** Troubleshooting slideshows; using Excel formulas
+
+**Homework:** Post the first draft of your chart (`chart_draft.html`) and your quiz pitch (`quiz_pitch.html`). Come in with a well thought out idea for a chart-based story. 
 
 ## Week 12 | Thu Nov 20 / Mon Dec 1
 
