@@ -211,11 +211,13 @@ footer {
     display:inline;
   }
   
-  header ul {
-    position:absolute;
+  header ul #assignments {
+    position: absolute;
     right:50px;
     top:52px;
+    width: 100%; 
   }
+
 }
 
 @media print, screen and (max-width: 720px) {
@@ -240,10 +242,11 @@ footer {
   body {
     padding:15px;
   }
-  
+
   header ul {
-    display:none;
-  }
+  
+  }  
+
 }
 
 @media print {
@@ -265,6 +268,17 @@ li.posts {
 height: 18px;
 border: 0;
 }
+
+ul.posts#assignments, ul.posts#handson {
+  width: 200%;
+}
+
+
+ul.posts#assignments li, ul.posts#handson li {
+  border-right: 1px solid #666;
+  padding-right: 5px;
+}
+
 
 ul.inline {
 display: inline;
