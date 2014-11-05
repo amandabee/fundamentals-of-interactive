@@ -1,4 +1,13 @@
 # Week 9 Plan
+Thu Oct 30 / Mon Nov 10
+
+## Map Notes
+
+We had some good questions about how quintiles differ from equal intervals so I wanted to mock up the difference.
+
+one clunky example: <http://www.ncgia.ucsb.edu/cctp/units/unit47/html/quanteq.html>
+In the first map, the groups are the same size. All the counties where 1-13% of residents live on active farms are light blue. All the counties where 40-52% live on active farms are bright blue. As a result, two counties stand out as having a very high proportion of folks living on active farms. 
+In the second map, there are the same number of counties in each map, and it comes out looking very dfferent. 
 
 Today I want to spend a good amount of time on maps, and then look at some quiz examples and talk about what makes those work. Next week, I want your maps embedded on an HTML page. And the following week, we'll have quizzes. 
 
