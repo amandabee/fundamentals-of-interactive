@@ -217,7 +217,14 @@ footer {
     top:52px;
     width: 100%; 
   }
+  ul.posts#assignments, ul.posts#handson {
+    width: 200%;
+  }
 
+  ul.posts#assignments li, ul.posts#handson li {
+    border-right: 1px solid #e5e5e5;
+    padding-right: 5px;
+  } 
 }
 
 @media print, screen and (max-width: 720px) {
@@ -267,16 +274,6 @@ box-shadow: none;
 li.posts {
 height: 18px;
 border: 0;
-}
-
-ul.posts#assignments, ul.posts#handson {
-  width: 200%;
-}
-
-
-ul.posts#assignments li, ul.posts#handson li {
-  border-right: 1px solid #666;
-  padding-right: 5px;
 }
 
 
