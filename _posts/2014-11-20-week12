@@ -1,0 +1,10 @@
+---
+title    : Week 12
+layout   : post
+category : assignments
+tagline  : Due Dec 04 (Thursday sections) / Dec 08 (Monday sections)
+tags     : [week11, homework, assignments]
+---
+{% include JB/setup %} 
+
+Revise your map, post it as `map_revised.html`
