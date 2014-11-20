@@ -2,7 +2,7 @@
 title     : Building a Chart
 layout    : post
 category  : hands-on
-tagline   : Usign Highcharts
+tagline   : Using Highcharts
 tags      : [week11, review, charts, highcharts]
 
 ---
