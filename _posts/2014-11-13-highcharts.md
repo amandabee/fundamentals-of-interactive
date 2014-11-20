@@ -16,7 +16,7 @@ tags      : [week11, review, charts, highcharts]
 + your text editor (if you don't have one, try [Sublime](http://www.sublimetext.com/) or [Text Wrangler](http://www.barebones.com/products/TextWrangler/), or if you're feeling fancy and want free and open source software, try [Emacs](http://emacsformacosx.com/) or [Vim](http://macvim.org/OSX/index.php))   
 + [Mr Data Converter](http://shancarter.com/data_converter/) in a browser   
 
-+ Our HighCharts [template is super helpful](../assets/highcharts/highcharts_demo.html)
++ Our HighCharts [template is super helpful](/fundamentals-of-interactive/assets/highcharts/highcharts_demo.html)
 
 ## Troubleshooting Highcharts
 
