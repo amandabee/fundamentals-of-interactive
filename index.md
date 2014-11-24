@@ -11,7 +11,7 @@ categories : [syllabus]
  |-----------------------|---|---------------------
  | 9 AM to 12:50 PM      |   | 9 AM to 12:50 PM
  | Room 436 (Adam Glenn) |   | Room 438 (Jeremy Caplan)
- | [Assignments](https://docs.google.com/document/d/1WivcUXhWp-kmdU8iz8Du7alwP12VN2LSgygBz7s0PBs/edit?usp=sharing)                      |   | [Assignments](https://docs.google.com/document/d/1WivcUXhWp-kmdU8iz8Du7alwP12VN2LSgygBz7s0PBs/edit?usp=sharing)
+ | [Assignments](https://docs.google.com/document/d/1WivcUXhWp-kmdU8iz8Du7alwP12VN2LSgygBz7s0PBs/edit#heading=h.chcx9p8eauut)                      |   | [Assignments](https://docs.google.com/document/d/1WivcUXhWp-kmdU8iz8Du7alwP12VN2LSgygBz7s0PBs/edit#heading=h.30jk3m97e3kr)
 
 Class Website: <http://amandabee.github.io/fundamentals-of-interactive>  
 Class Mopad: <http://etherpad.mozilla.org/fundamentals>  
