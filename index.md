@@ -186,10 +186,10 @@ Maps and mapping -- how to make a map that tells a story.
 
 
 ## Week 14 | Thu Dec 11 / Mon Dec 15
-*Due:* Quiz Revision
+*Due:* Chart Revision **NOTE THIS IS A SYLLABUS CHANGE**
 
 **Hands on:** Troubleshooting chart problems; getting more out of excel
 
-## Week 15 | Thu Dec 18 / Mon Dec 22
+## Week 15 | Thu Dec 18 / Mon **no class**
 
-*Due:* Chart revision
+*Due:* Optional: Quiz revision
