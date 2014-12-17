@@ -27,8 +27,8 @@
 
 ### Past Student work
 + Amy Eley interviewed a personal trainer about what she eats. She annotated a photograph of her fridge.
-+ Kathleen(?) did a story about the challenges of starting a food truck from scratch. She told that story as an annotated image.
-+ Max Willens did a whole piece on [lotteries and what makes them work](http://digitalstorage.journalism.cuny.edu/joseph.willens/lottofive.html). 
++ Kathleen did a story about the challenges of starting a food truck from scratch. She told that story as an annotated image.
++ Max Willens on [lotteries and what makes them work](http://digitalstorage.journalism.cuny.edu/joseph.willens/lottofive.html). 
 
 ### Possibilities
 + A bodega window -- what can that tell you about a neighborhood?
