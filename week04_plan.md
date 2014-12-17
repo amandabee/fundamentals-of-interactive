@@ -15,7 +15,8 @@ In the second map, there are the same number of counties in each map, and it com
 Today I want to spend a good amount of time on maps, and then look at some quiz examples and talk about what makes those work. Next week, I want your maps embedded on an HTML page. And the following week, we'll have quizzes. 
 
 ## Caption review
-<http://digitalstorage.journalism.cuny.edu/dannisantana/fundamentals/slideshow_draft.html> This isn't Craft so I won't spend eons on this, but watch out for the passive voice. 
+
+This isn't Craft so I won't spend eons on this, but watch out for the passive voice. 
 
 > Fake blood was squirted on to the Marine Transfer Station sign by protesters after police left ... 
 
