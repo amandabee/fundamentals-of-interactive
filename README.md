@@ -1,11 +1,11 @@
-Fundamentals of Interactive
+  Fundamentals of Interactive
 ============
 
 ## Syllabi
 
 * <http://sisiwei.github.io/cuny-interactive-fall-2014/>
 * <http://amandabee.github.io/fundamentals-of-interactive/>
-* <http://lamthuyvo.github.io/cuny2014/>
+  * <http://lamthuyvo.github.io/cuny2014/>
 
 ## Notes
 
@@ -23,3 +23,4 @@ You can rearrange the schedule if it makes sense to you to do things differently
 
 One of our goals is for every student to have roughly the same technical foundation by the end of the semester so we do need to work in tandem.
 
+License: [by-nc-sa 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) feel free to contact me to discuss commercial uses.
