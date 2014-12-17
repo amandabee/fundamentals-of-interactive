@@ -3,18 +3,6 @@
 ## Welcome, HTML troubleshooting
 What was hard in putting the pitches together? 
 
-###Thursday Pitches
-+ [Lisa Brown, Cranberry Bog](http://digitalstorage.journalism.cuny.edu/lisa.brown/fundamental/week6.html)
-+ [Ryan Wallerson, World Series](http://digitalstorage.journalism.cuny.edu/ryanwallerson/fundamentals/weeksix.html)
-+ [Danni Santana, First Reformed Church of Astoria](http://digitalstorage.journalism.cuny.edu/dannisantana/coding/weeksix.html)
-+ [Rania Berrada, Mott Haven at the Peoples Climate March](digitalstorage.journalism.cuny.edu/raniaberrada/Fundamentals/week6.html)
-+ [Maura Ewing, Prison Bus](http://digitalstorage.journalism.cuny.edu/maura.ewing/public_html/fundamentals/week6.html)
-+ [Annamarya Scaccia](http://digitalstorage.journalism.cuny.edu/annamarya.scaccia/week6.html)
-+ [Luke Tress](http://digitalstorage.journalism.cuny.edu/luketress/week6.html)
-+ [Brooke Williams](http://digitalstorage.journalism.cuny.edu/brooke.williams/fundamentals/week6.html)
-
-### Monday Pitches
-+ 
 
 Notes: your first draft is due next week. 
 
