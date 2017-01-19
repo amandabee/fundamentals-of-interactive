@@ -26,7 +26,7 @@ To keep the meeting streamlined, I suggest we all post at least one thought on h
 - I made the quiz revision extra credit. I felt that their energy was better spent on the charts and maps
 - I'm torn about the quiz and slideshow -- the slideshow snuck a lot of HTML in, and both incorporated a good amount of writing for unusual forms -- two important skills. 
 
-From Lam
+## From Lam
 
 I'd say the two most useful assignments were the map and the charts. The
 slideshow was a good and low-coding level intro do this kind of
