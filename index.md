@@ -16,7 +16,7 @@ categories : [syllabus]
 Class Website: <http://amandabee.github.io/fundamentals-of-interactive>  
 Class Mopad: <http://etherpad.mozilla.org/fundamentals>  
 
-###Amanda Hickman
+### Amanda Hickman
 amanda.hickman@journalism.cuny.edu  
 Office: 419i  
 Hours: <http://piratepad.net/amandahickman>  
