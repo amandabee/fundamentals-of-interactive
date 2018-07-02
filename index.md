@@ -42,7 +42,7 @@ We're going to cover four story forms that we think touch on a range of skills y
 Students will also have experience telling meaningful and complete stories in interactive formats where space is at a premium. 
 
 
-#Syllabus in Brief
+# Syllabus in Brief
 
 | Form                 | Pitch   | Due        | Revision   | 
 |----------------------|---------|------------|------------|
