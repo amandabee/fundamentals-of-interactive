@@ -17,7 +17,6 @@ Class Notes: <http://etherpad.mozilla.org/fundamentals>
 Amanda Hickman 419i  
 amanda.hickman@journalism.cuny.edu  
 Hours: <http://piratepad.net/amandahickman>  
-Phone: 917/655-2579  
 Skype: amandabee  
 Tumblr: <http://jour72312.tumblr.com/>
 
